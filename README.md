@@ -2,7 +2,7 @@
 
 Ce projet portait sur le laboratoire galaxy swiss bourdin, l’objectif était de permettre à des visiteurs médicaux de gérer leurs rapports de visites auprès de médecins. Il devra avoir la possibilité de créer/modifier ses rapports, y ajouter des médicaments, voir et modifier les informations des médecins, voir les rapports de chaque médecin et rechercher ses rapports via une date.
  
-Pour ce faire, nous avions à disposition un MCD de la base de données, un schéma de l’attente ainsi qu’une liste de cas d’utilisations. Un dictionnaire de données au format SQL était également fourni
+Pour ce faire, nous avions à disposition  la base de données, ainsi que des comptes de test dans la base de données.
 
 ## Getting Started
 
