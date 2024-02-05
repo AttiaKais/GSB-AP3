@@ -109,7 +109,7 @@
   </div>
 </div>
 <?php if(isset($_GET["delete"])){
-    print("zizi");
+    print("déconnection");
     daorapport::deleterapport($_GET["delete"]);
 
 }?>
