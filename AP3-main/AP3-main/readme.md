@@ -9,8 +9,7 @@ Pour ce faire, nous avions à disposition un MCD de la base de données, un sch�
 Pour l'executer, vous devez charger le script SQL sur phpmyadmin ou autre.
 Puis, deposez le dossier contenant tous les script dans le WWW.
 
-la base de données doit etre nommé gsb et login: root, mdp: root
-exemple d'utilisateur pour test: aribiA mdp: aaaa
+la base de données doit etre nommé gsb et login: root, mdp: .
 
 ## Langages
 
