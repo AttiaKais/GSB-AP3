@@ -11,6 +11,8 @@ Puis, deposez le dossier contenant tous les script dans le WWW.
 
 la base de données doit etre nommé gsb et login: root, mdp: .
 
+Le fichier nommé 1-projet-gsb-gestion-visites est le fichier de documentation fournie pour réalisé le projet
+
 ## Langages
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
